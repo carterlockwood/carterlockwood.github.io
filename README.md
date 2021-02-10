@@ -1,2 +1,2 @@
-# jekylltest1
-Experiment/first foray into using Jekyll and terminal interface for git
+# Carter Lockwood Portfolio Site
+An extremely basic Jekyll site where I can share project info and blog posts. 
