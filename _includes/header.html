@@ -24,9 +24,9 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}-->
-          <a class="page-link" href="{{site.url}}/projects/">Projects</a>
-          <a class="page-link" href="{{site.url}}/blog/">Blog</a>
-          <a class="page-link" href="{{site.url}}/CarterLockwoodResume.pdf">CV</a>
+          <a class="page-link" href="{{'/projects/' | relative_url }}">Projects</a>
+          <a class="page-link" href="{{'/blog/' | relative_url }}">Blog</a>
+          <a class="page-link" href="{{'CarterLockwoodResume.pdf' | relative_url }}">CV</a>
         </div>
         
       </nav>
