@@ -5,7 +5,7 @@ author: "Carter Lockwood"
 date:  2020-10-07
 categories: blog
 ---
-<img src="{{ '/static/2020-10-07pencil.jpg' | relative_url}}" alt='My desk' >
+<img src="{{ '/static/2020-10-07pencil.JPG' | relative_url}}" alt='My desk' >
 
 ### **Who, What, When, Where, Why, and How?**
 
