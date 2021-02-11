@@ -3,7 +3,7 @@ layout: post
 title:  "A Note About This Site"
 author: "Carter Lockwood"
 date:  2020-10-07
-categories: jekyll development tech
+categories: blog
 ---
 <img src="{{ '/static/2020-10-07pencil.jpg' | relative_url}}" alt='My desk' >
 
