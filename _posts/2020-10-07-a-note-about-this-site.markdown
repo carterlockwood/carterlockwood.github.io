@@ -5,7 +5,7 @@ author: "Carter Lockwood"
 date:  2020-10-07
 categories: jekyll development tech
 ---
-<img src="{{ site.url }}/{{ site.base_url }}/static/2020-10-07pencil.jpg" alt='My desk' >
+<img src="{{ '/static/2020-10-07pencil.jpg' | relative_url}}" alt='My desk' >
 
 ### **Who, What, When, Where, Why, and How?**
 
