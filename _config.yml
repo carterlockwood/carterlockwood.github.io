@@ -21,7 +21,7 @@
 title: Carter Lockwood
 email: rclockwood@crimson.ua.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal portfolio and blog website created by Carter Lockwood.
+  A personal portfolio and blog website.
 baseurl: "" # the subpath of your site, e.g. /blog --- use 'portfolio' if just hosting on github.io
 url: "http://www.rclockwood.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: CarterLockwood1
